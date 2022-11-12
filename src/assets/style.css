@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(50, 46, 46);
+    color: rgb(236, 232, 223);
+    font-family: "Cascadia Mono-SemiLight",Menlo,Monaco,Consolas,monospace;
+    overflow-x: hidden;
+}
+img{
+    border-radius: 10px;
+}
